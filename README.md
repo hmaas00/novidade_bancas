@@ -15,3 +15,8 @@ Exemplo de saída:
     de tjdft22:
     última mensagem - data:30/03/2022
     mensagem: Interposição de recursos contra o indeferimento preliminar dos pedidos de atendimento especial
+
+Próximos passos:
+
+    1 arquivo de configuração para colocar as urls
+    2 ler páginas do Cebraspe
